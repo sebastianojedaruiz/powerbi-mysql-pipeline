@@ -1,5 +1,11 @@
 # 📊 Pipeline de Datos: Power BI + MySQL + Python
 
+## Vista previa del Dashboard
+
+![Dashboard Reporte de Ventas](images/dashboard.png)
+
+---
+
 Pipeline end-to-end para análisis de ventas y costos: ingesta automatizada de datos con Python, almacenamiento en MySQL y visualización en Power BI.
 
 ---
