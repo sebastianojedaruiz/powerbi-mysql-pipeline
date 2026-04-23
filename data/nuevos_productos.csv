@@ -1,0 +1,5 @@
+id_producto,nombre_producto,categoria,precio_venta,costo_unitario
+9,Smartwatch,Electrónica,250.0,160.0
+10,Router WiFi,Redes,180.0,110.0
+11,Cámara Web,Accesorios,90.0,55.0
+12,Disco SSD 1TB,Almacenamiento,220.0,150.0
